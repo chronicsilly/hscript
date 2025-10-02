@@ -98,3 +98,5 @@ Some other optional files :
   - `hscript.Printer` : convert hscript Expr to String
   - `hscript.Tools` : utility functions (map/iter)
  
+
+<img width="250" height="364" alt="17594196598308371312928198760358" src="https://github.com/user-attachments/assets/c2daa936-3a37-430b-b149-23d908de112d" />
