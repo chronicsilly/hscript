@@ -175,7 +175,7 @@ class Interp {
 
 	public var importBlocklist(get, never):Array<String>;
 	private inline function get_importBlocklist():Array<String> {
-		return Config.IMPORT_BLACKLIST;
+		return []/*Config.IMPORT_BLACKLIST*/;
 	}
 
 	var usingHandler:UsingHandler;
